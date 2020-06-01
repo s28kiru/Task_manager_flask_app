@@ -17,5 +17,7 @@ Introductory flask app - task manager
 
 `pip install flask`
 
+### run the app
 
+`python app.py`
 
